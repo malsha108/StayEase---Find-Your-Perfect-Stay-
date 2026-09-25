@@ -15,6 +15,9 @@ Designed in Figma with a clean and user-friendly interface.
 * Booking interface
 * Responsive design concept
 
+###Home page
+Group 12.png
+
 ### 🛠️ Tools
 
 * Figma
