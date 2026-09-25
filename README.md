@@ -24,5 +24,5 @@ Designed in Figma with a clean and user-friendly interface.
 
 ### 🔗 Figma Prototype
 
-Paste your Figma link here.
+https://www.figma.com/design/wNHM7Y3uiCP3mIMbTzb88G/Untitled?node-id=33-32&t=w8WFFjYiptpoow9i-1
 
